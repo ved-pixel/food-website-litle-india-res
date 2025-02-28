@@ -1,0 +1,170 @@
+
+
+@media (min-width: 600px) and (max-width: 1024px) {
+  /* Styles for tablets */
+  body {
+    font-size: 18px;
+  }
+
+
+}
+
+
+
+
+
+
+@media (max-width: 1399.98px) {
+
+}
+@media (max-width: 1199.98px) {
+
+}
+@media (max-width: 991.98px) {
+
+}
+@media (max-width: 767.98px) { 
+
+
+
+  .container{
+    width: 100%;
+}
+
+.baaaanner-content {
+  margin: 1px;
+}
+
+.footer-widget::before {
+  display: none;
+}
+
+
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-white.shadow-sm {
+height: 80px;
+}
+
+.col-lg-4.col-md-6 {
+padding: 0; 
+margin: o;
+}
+.head-card h5 {
+padding-left: 20px;
+}
+
+.price-tag {
+  width: 385px;
+}
+
+.head-card p{
+padding: 0 20px;
+}
+ul.navbar-nav.ms-auto {
+background-color: white;
+padding: 1px;
+}
+
+a.nav-link.text-black {
+padding-left: 10px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-white.shadow-sm {
+height: 80px;
+}
+
+iframe {
+width: 310px;
+}
+
+.main-About {
+display: flex;
+flex-direction: column;
+align-items: flex-start
+}
+
+.res-tion-7 {
+max-width: 100%;
+}
+
+.row {
+  flex-direction: column;
+}
+
+.about-text {
+  max-width: 100%;
+}
+
+.banner.home-page h1 {
+  font-size: 3.5em;
+}
+
+.image-gallery {
+  max-width: 100%;
+}
+
+.first_img {
+  max-width: 100%;
+}
+
+
+
+.third_img img, .second_img img {
+  max-height: 100px;
+  max-width: 100px;
+  width: 100px;
+  height: 100px;
+}
+.about_double_img {
+  margin-top: 0;
+}
+
+.about_double_img {
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.ress-img {
+  max-width: 100%;
+  /* flex: 0; */
+}
+.reservation-home .row {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.chef_img, .chef_image {
+   margin-right: 50px; 
+}
+.res-form-11 {
+  max-width: 100%;
+}
+
+.res-btn {
+ margin-right: 175px;
+}
+
+
+ }
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+
+  
+}
+
+@media only screen and (max-height: 539.98px) {
+
+}
+@media only screen and (max-height: 539.98px) and (max-width: 1024px) {
+
+}
+
+
+
