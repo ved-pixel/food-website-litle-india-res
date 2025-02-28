@@ -6,6 +6,10 @@
     font-size: 18px;
   }
 
+  iframe {
+    width: 100%;
+  }
+
 
 }
 
@@ -21,6 +25,10 @@
 
 }
 @media (max-width: 991.98px) {
+
+  iframe {
+    width: 100%;
+}
 
 }
 @media (max-width: 767.98px) { 
@@ -155,11 +163,17 @@ max-width: 100%;
 
 
 @media (max-width: 575.98px) {
-
+  iframe {
+    width: 100%;
+}
   
 }
 
 @media only screen and (max-height: 539.98px) {
+  
+  iframe {
+    width: 100%;
+}
 
 }
 @media only screen and (max-height: 539.98px) and (max-width: 1024px) {
