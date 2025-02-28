@@ -581,6 +581,7 @@ select option {
     border: 1px solid #fb0006;
     /* height: 45px; */
     width: 160px;
+    margin-right: 480px;
 }
 
 .res-btn:hover::before{
