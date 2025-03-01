@@ -757,9 +757,7 @@ section#reservation-homepageee {
 }
 /* Responsive for small screens */
 @media (max-width: 768px) {
-    .gallery img {
-        width: calc(50% - 10px);
-    }
+   
 }
 
 @media (max-width: 480px) {
@@ -773,6 +771,9 @@ section#reservation-homepageee {
 
 /* ==banner --2== */
 
+.head-card:hover {
+    color: red;
+}
 
 .hero {
     position: relative;
