@@ -7,6 +7,14 @@ img {
 }
 
 
+#Gallery-section h2{
+    text-align:center;
+     color: red; 
+     font-family: 'Kaushan Script'; 
+     padding-top: 110px;
+}
+
+
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
